@@ -2,7 +2,7 @@
 ## Introduction
 The Hospital Management System is designed to streamline and organize day-to-day operations in a hospital environment. The system is designed to serve several entities that exist in hospitals included but not limited to patients, doctors, and administrators. To ensure privacy, the database system can be accessed by entering a username and a password. However, only the administrator or a receptionist have the permissions to enter data into the system. Doctors and related medical staff may view the data in the system such as patient and laboratory information to help them make informed decisions. The main goal of the Hospital Management System is to provide key information relevant to patients and their healthcare and financial accounting in a coherent manner that enhances the overall management of a hospital. In addition, providing access to lab reports and essential documents in a paper-less format to patients and the hospital staff makes this program efficient. The system should make it easy to retrieve and/or store information about patients while being user-friendly and fast.
 
-##Entities
+## Entities
 The database will deal with seven entities that will have relationships (1:1 or 1:Many) with one another in order to connect data across tables and make data manipulation easier. These seven entities are:
 
 ● Patient - will store attributes such as patient_id, name, gender, date_of_birth, address, illness, treatment, etc.
